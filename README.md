@@ -1,3 +1,4 @@
+#Chrome Extension
 YT Capture+ · Frame-by-Frame YouTube Snapshot Tool
 
 A lightweight browser extension that lets you capture precise YouTube video frames with one click.
